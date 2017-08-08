@@ -1,6 +1,8 @@
 Swiffotron
 ==========
 
+This is a hard fork of swiffotron after WeeWorld disappeared from the internet.
+
 SWF processor, stitcher and generator for .NET with Actionscript 3 merging
 --------------------------------------------------------------------------
 
